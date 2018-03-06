@@ -1,4 +1,3 @@
-# HackerRankSolutions
 package com.umangbudhwar;
 
 import java.math.BigInteger;
